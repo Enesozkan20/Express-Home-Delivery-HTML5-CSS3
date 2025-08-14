@@ -24,4 +24,4 @@ A modern website for a fast home delivery service, made with **HTML5 and CSS3**,
 | Mobile Version | Media Queries |
 | Contact Form | HTML Form Validation |
 
--
+
